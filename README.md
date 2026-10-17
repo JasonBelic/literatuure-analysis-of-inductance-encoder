@@ -1,1 +1,1 @@
-# literatuure-analysis-of-inductance-encoder
+涡流/电感式位置传感器接口芯片相关论文的中文解读文档。每次更新是一个提交；文件名后缀 _v2、_v3 等表示新版本；用 git pull 获取最新。
