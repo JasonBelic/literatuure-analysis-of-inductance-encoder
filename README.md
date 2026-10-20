@@ -1,0 +1,1 @@
+# literatuure-analysis-of-inductance-encoder
